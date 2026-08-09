@@ -1,0 +1,4 @@
+interface:
+  display_name: "Travel Photo Art Director"
+  short_description: "Curate and transform travel photo folders into art series"
+  default_prompt: "Use $travel-photo-art-director to curate this travel photo folder and create a cohesive nine-image art series."
